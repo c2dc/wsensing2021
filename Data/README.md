@@ -21,5 +21,5 @@ The available `pcap` files are available compressed with GZip. They are separate
 ## MAC Address for Interpreting Traffic
 - Parrot AR.Drone MAC Address: `90:03:B7:38:F5:B8`
 - Laptop MAC Address: `0C:84:DC:D5:5F:4D`
-- Mobile Phone MAC Address (Flight Controller): `44:80:EB:00:0B:41`
+- Mobile Phone MAC Address (UAV Remote Controller): `44:80:EB:00:0B:41`
 
